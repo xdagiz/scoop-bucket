@@ -1,0 +1,19 @@
+{
+  "version": "0.8.5",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/xdagiz/xytz/releases/download/v0.8.5/xytz-v0.8.5-windows-amd64.tar.gz",
+      "bin": ["xytz.exe"],
+      "hash": "29728b542955b35a7bbe434c4d1947719488764bb5c1ce87687e3009de1d3082"
+    },
+    "arm64": {
+      "url": "https://github.com/xdagiz/xytz/releases/download/v0.8.5/xytz-v0.8.5-windows-arm64.tar.gz",
+      "bin": ["xytz.exe"],
+      "hash": "bc3a19a07775dadf77afc884c9ad60eecc31e6198c3a036c42969156c4b6d62d"
+    }
+  },
+  "homepage": "https://github.com/xdagiz/xytz",
+  "license": "MIT",
+  "description": "a beautiful TUI YouTube Downloader",
+  "depends": ["yt-dlp", "ffmpeg"]
+}
