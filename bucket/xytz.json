@@ -1,19 +1,19 @@
 {
-    "version": "0.9.1-demo",
+    "version": "0.9.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xdagiz/xytz/releases/download/v0.9.1-demo/xytz-v0.9.1-demo-windows-amd64.zip",
+            "url": "https://github.com/xdagiz/xytz/releases/download/v0.9.1/xytz-v0.9.1-windows-amd64.zip",
             "bin": [
                 "xytz.exe"
             ],
-            "hash": "44f2f5cecad8f0633580833bb3645e23ba96aaa604e88ab7e0bd9095d1796316"
+            "hash": "04fcc32cebb810370dfd306665da0e5ec504d35e6f9f702cad9e857caa91b8bc"
         },
         "arm64": {
-            "url": "https://github.com/xdagiz/xytz/releases/download/v0.9.1-demo/xytz-v0.9.1-demo-windows-arm64.zip",
+            "url": "https://github.com/xdagiz/xytz/releases/download/v0.9.1/xytz-v0.9.1-windows-arm64.zip",
             "bin": [
                 "xytz.exe"
             ],
-            "hash": "144dc8194f906006f7eddd0f0c37657b72cb4dd4922288c37036dafdc24e12d2"
+            "hash": "262195e85340d0761b0d4b474d3733a6ba6646e9f630e81a212f394c21f6051a"
         }
     },
     "homepage": "https://github.com/xdagiz/xytz",
